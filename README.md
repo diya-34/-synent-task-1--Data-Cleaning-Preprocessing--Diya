@@ -1,4 +1,4 @@
-# -synent-task-3-Data-Cleaning-Preprocessing-Diya
+# -synent-task-3-Data-Exploratory Data Analysis (EDA) -Diya
 # 🎬 Netflix Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
